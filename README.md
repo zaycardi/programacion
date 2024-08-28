@@ -24,3 +24,13 @@ entra y sale,
 y sale y entra
 la muerte
 de la taberna.
+# aporte Mzafra
+Las olas susurran 
+secretos de antaño, 
+y en la bruma espesa
+ se oculta el engaño.
+
+El faro distante
+ vigila en silencio, 
+ mientras la luna 
+ teje sueños de incienso. 
